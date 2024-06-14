@@ -1,0 +1,12 @@
+body{
+margin: 0px;
+padding:0px;
+background-color:#3b3b3b;
+}
+#canvas{
+background-color: #4b4b4b;
+margin-top: 10px;
+width: 800px;
+height: 450px;
+}
+ 
